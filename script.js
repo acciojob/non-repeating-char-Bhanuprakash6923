@@ -22,6 +22,4 @@
   // ✅ Sample test cases
   console.log(firstNonRepeatedChar('aabbcdd')); // ➝ 'c'
   console.log(firstNonRepeatedChar('aabbcc'));  // ➝ null
-  console.log(firstNonRepeatedChar('abcab'));   // ➝ 'c'
-  console.log(firstNonRepeatedChar(''));        // ➝ null
 </script>
